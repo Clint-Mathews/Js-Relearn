@@ -1,0 +1,16 @@
+const mainHeading = document.querySelector("#main-heading");
+console.log(typeof mainHeading);
+console.log(mainHeading);
+console.dir(mainHeading);
+const logo = document.querySelector(".logo");
+console.log(typeof logo);
+console.log(logo);
+console.dir(logo);
+const navItem = document.querySelector(".nav-item");
+console.log(typeof navItem);
+console.log(navItem);
+console.dir(navItem);
+const navItemList = document.querySelectorAll(".nav-item");
+console.log(typeof navItemList);
+console.log(navItemList);
+console.dir(navItemList);
